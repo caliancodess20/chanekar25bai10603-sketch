@@ -1,14 +1,16 @@
 # Hi 👋, I'm Sanskruti
-I'm a **[University 1st year Btech Student]** passionate about building clean, user-friendly applications.
+I'm a **[University 2nd year Btech Student]** passionate about building clean, user-friendly applications.
 
 ## 🌟 About Me
 - 🎓 Student Btech'29
 - 💻 Learning Python & DSA
+- 💻 Learning Java Programming
 - 🚀 Interested in AI & ML
 
 ## 🛠️ Skills
-- Python Programming 
-- FLASK Framework
+- Python Programming
+- Java Programming
+- FAST API Framework
 - Machine Learning
 - Full Stack Devlopment
 - HTML, CSS
@@ -22,6 +24,7 @@ I'm a **[University 1st year Btech Student]** passionate about building clean, u
 
 | Project Name | Stack | Live Demo |
 | :--- | :--- | :--- |
+| **NeuralWatch** | Python, Fast API |  [![Deploy](https://shields.io)](https://NeuralWatch.streamlit.app/) |
 | **RESUME-ANALYSER** |HTML,FLASK | [![Deploy](https://shields.io)](https://resume-analyzer-1-a7z1.onrender.com/) |
 | **MOVIE-RECOMMENDATION-SYSTEM** | Next.js, Prisma | [![Deploy](https://shields.io)](https://movie-reccomendation-system-djg9yfhyxezca4jmurghau.streamlit.app/) |
 
@@ -37,19 +40,3 @@ I'm a **[University 1st year Btech Student]** passionate about building clean, u
 - I love music & concerts 🎶
 - I am an enthusiastic learner.
 
-
-
-<!--
-**chanekar25bai10603-sketch/chanekar25bai10603-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
