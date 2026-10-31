@@ -25,7 +25,7 @@ I'm a **[University 2nd year Btech Student]** passionate about building clean, u
 | Project Name | Stack | Live Demo |
 | :--- | :--- | :--- |
 | **NeuralWatch** | Python, Fast API |  [![Deploy](https://shields.io)](https://neuralwatch-vv3lpllqcyifqmgcmpqw6a.streamlit.app/) |
-| **CSIA: Crime Scene Inteligence Agent** | Postgre SQL , Opencv | 
+| **CSIA: Crime Scene Inteligence Agent** | Postgre SQL , Opencv | [![Deploy](https://shields.io)](https://csia-crime-scene-intelligence-agent.vercel.app/) |
 | **RESUME-ANALYSER** |HTML,FLASK | [![Deploy](https://shields.io)](https://resume-analyzer-1-a7z1.onrender.com/) |
 | **MOVIE-RECOMMENDATION-SYSTEM** | Next.js, Prisma | [![Deploy](https://shields.io)](https://movie-reccomendation-system-djg9yfhyxezca4jmurghau.streamlit.app/) |
 
